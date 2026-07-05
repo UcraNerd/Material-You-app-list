@@ -472,30 +472,30 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ## 🎨 Personalization and UI
 ### 🏠 Launchers
 - `MD3E` [Be Nice](https://codeberg.org/tkuenneth/benice) <sup>`FOSS`</sup>
-- `MDY` [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) <sup>`FOSS`</sup> <sup>`🐾`</sup>
-- `MDY` [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [Pixel Launcher Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
 - `MDY` [Kvaesitso](https://github.com/MM2-0/Kvaesitso) <sup>`FOSS`</sup>
-- `MDY` [Mini Car Launcher](https://github.com/jamal2362/Mini-Car-Launcher) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MDY` [Hyperion Launcher](https://play.google.com/store/apps/details?id=projekt.launcher)
-- `MDY` [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher)
-- `MDY` [Nothing Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher)
+- `MDY` [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 - `MDY` [Fossify Launcher](https://github.com/FossifyOrg/Launcher) <sup>`FOSS`</sup>
+- `MDY` [Hyperion Launcher](https://play.google.com/store/apps/details?id=projekt.launcher)
+- `MDY` [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
+- `MDY` [Nothing Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher)
 - `MDY` [Nova Launcher 8](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)
-- `MY` [Action Launcher](https://play.google.com/store/apps/details?id=com.actionlauncher.playstore)
+- `MDY` [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Mini Car Launcher](https://github.com/jamal2362/Mini-Car-Launcher) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Pixel Launcher Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MDY` [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher) <sup>`🪦`</sup>
 - `MY` [AIO Launcher](https://play.google.com/store/apps/details?id=ru.execbit.aiolauncher)
 - `MY` [Easy Homescreen](https://play.google.com/store/apps/details?id=easy.launcher)
+- `MY` [Action Launcher](https://play.google.com/store/apps/details?id=com.actionlauncher.playstore) <sup>`🪦`</sup>
 - `MY` [TouchFind](https://play.google.com/store/apps/details?id=com.davesla.easyfind) <sup>`🪦`</sup>
 - **Tools**
-	- `MDY` [DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+		- `MDY` [Hide My Apps OSS](https://github.com/frknkrc44/HMA-OSS) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🐾`</sup>
 	- `MDY` [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) <sup>`FOSS`</sup>
-	- `MDY` [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist)
-		- `MDY` [Hide My Ass OSS](https://github.com/frknkrc44/HMA-OSS) <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🐾`</sup>
-	- `MDY` [QuickSwitch](https://github.com/skittles9823/QuickSwitch) <sup>`FOSS`</sup>
-	- `MDY` [Launcher30](https://github.com/gitofleonardo/Launcher30) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [Smart Dock](https://github.com/axel358/smartdock) <sup>`FOSS`</sup>
-	- `MDY` [Popup Launcher](https://play.google.com/store/apps/details?id=com.ss.popuplauncher)
+	- `MDY` [DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [Launcher30](https://github.com/gitofleonardo/Launcher30) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [Popup Launcher](https://play.google.com/store/apps/details?id=com.ss.popuplauncher) <sup>`🪦`</sup>
+	- `MDY` [QuickSwitch](https://github.com/skittles9823/QuickSwitch) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MD` [Neo Feed](https://github.com/NeoApplications/Neo-Feed) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 
@@ -514,15 +514,15 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - **SystemUI**
 	- `MDY` [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) <sup>`FOSS`</sup>
 	- `MDY` [Iconify](https://github.com/Mahmud0808/Iconify) <sup>`FOSS`</sup>
-	- `MDY` [PowerLine: Status Bar meters](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
-	- `MDY` [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme)
-	- `MDY` [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-	- `MDY` [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`💰`</sup> <sup>`🪦`</sup>
 	- `MDY` [Oxygen Customiser](https://github.com/DHD2280/Oxygen-Customizer) <sup>`FOSS`</sup>
+	- `MDY` [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme)
+	- `MDY` [PowerLine: Status Bar meters](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
+ 	- `MDY` [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`💰`</sup> <sup>`🪦`</sup>
 	- `MD` [Precise Volume 2.0](https://play.google.com/store/apps/details?id=com.phascinate.precisevolume)
 - **Miscellaneous**
-	- `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 	- `MDY` [DarQ](https://github.com/KieronQuinn/DarQ) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
