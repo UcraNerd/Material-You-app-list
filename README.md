@@ -303,8 +303,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 #### 🐘 **Mastodon**
 - `MDY` [Fedilab](https://codeberg.org/tom79/Fedilab) <sup>`FOSS`</sup>
-- `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Mastodon](https://github.com/mastodon/mastodon-android) <sup>`FOSS`</sup>
+- `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Dimett](https://github.com/MateriiApps/Dimett) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Focus for Mastodon](https://github.com/allentown521/FocusMastodon) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -364,8 +364,8 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`MOD`</sup> <sup>`🪦`</sup>
 
 #### 🟣 **Pixelfed**
-- `MDY` [Pixelix](https://github.com/ghostbyte-dev/pixelix) <sup>`FOSS`</sup>
 - `MDY` [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) <sup>`FOSS`</sup>
+- `MDY` [Pixelix](https://github.com/ghostbyte-dev/pixelix) <sup>`FOSS`</sup>
 
 #### 🔐 **Signal**
 - `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup>
@@ -378,15 +378,15 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MD` [Mages](https://github.com/mlm-games/Mages) <sup>`FOSS`</sup>
 
 #### 🎥 **Twitch**
-- `MDY` [Xtra](https://github.com/crackededed/Xtra) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [DankChat](https://github.com/flex3r/DankChat) <sup>`FOSS`</sup>
+- `MDY` [Xtra](https://github.com/crackededed/Xtra) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 #### 🦋 **Bluesky**
 - `MD3E` [Heron](https://github.com/tunjid/heron) <sup>`FOSS`</sup>
 
 #### 🦤 **Nostr**
-- `MD` [Voyage](https://github.com/dluvian/voyage) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+- `MD` [Voyage](https://github.com/dluvian/voyage) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 #### 🟦 **Facebook**
 - `MD3E` [Materialbook](https://github.com/eepiemi/Materialbook) <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -403,8 +403,8 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Rays](https://github.com/SkyD666/Rays-Android) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Stack for Stack Overflow](https://github.com/tylerbwong/stack) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MY` [DisCorkie](https://play.google.com/store/apps/details?id=dev.appoutlet.DisCorkie)
+- `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -433,8 +433,8 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 
 ---
 ### 📧 Email Clients
-- `MD3E` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
 - `MD3E` [MonoMail](https://github.com/shrivatsav-0/monomail) <sup>`FOSS`</sup>
+- `MD3E` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
 - `MDY` [Infomaniak kMail](https://github.com/Infomaniak/android-kMail) <sup>`FOSS`</sup>
 - `MDY` [ltt.rs](https://codeberg.org/iNPUTmice/lttrs-android) <sup>`FOSS`</sup>
 - `MDY` [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark)
@@ -450,8 +450,8 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 - `MDY` [Lentil Translate](https://github.com/yaxarat/lingvaandroid) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Monocles Translator](https://codeberg.org/Arne/monocles_translator) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 - `MDY` [Screen Translator](https://github.com/vamsi3/screen-translator) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-- `MD` [Instant Translate on Screen](https://play.google.com/store/apps/details?id=com.spaceship.screen.textcopy)
 - `MD` [Moon Translator](https://github.com/MoonMonet/Translator) <sup>`FOSS`</sup>
+- `MD` [Instant Translate on Screen](https://play.google.com/store/apps/details?id=com.spaceship.screen.textcopy)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -528,14 +528,14 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 
 ---
 ### ⌨️ Keyboards
-- `MDY` [FUTO Keyboard](https://keyboard.futo.org/) <sup>`FOSS`</sup>
+- `MDY` [Florisboard](https://github.com/florisboard/florisboard) <sup>`FOSS`</sup>
 - `MDY` [Fossify Keyboard](https://github.com/FossifyOrg/Keyboard) <sup>`FOSS`</sup>
-- `MDY` [BiBi Keyboard](https://github.com/BryceWG/BiBi-Keyboard) <sup>`FOSS`</sup> <sup>`💰`</sup>
-- `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
+- `MDY` [FUTO Keyboard](https://keyboard.futo.org/) <sup>`FOSS`</sup>
 - `MDY` [HeliBoard](https://github.com/Helium314/HeliBoard) <sup>`FOSS`</sup>
 	- `MDY` [LeanType](https://github.com/LeanBitLab/LeanType) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - `MDY` [Thumb-Key](https://github.com/dessalines/thumb-key) <sup>`FOSS`</sup>
-- `MDY` [Florisboard](https://github.com/florisboard/florisboard) <sup>`FOSS`</sup>
+- `MDY` [BiBi Keyboard](https://github.com/BryceWG/BiBi-Keyboard) <sup>`FOSS`</sup> <sup>`💰`</sup>
+- `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
 - `MY` [Fcitx5 for Android](https://github.com/fcitx5-android/fcitx5-android) <sup>`FOSS`</sup>
 - `MY` [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) <sup>`FOSS`</sup>
 - `MY` [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard)
