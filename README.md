@@ -546,20 +546,19 @@ https://github.com/twixxty/Aliyoucord) [`#3`](https://github.com/vicefriedrice/M
 ### 🎴 Icons/Wallpapers/Widgets
 - **Icons**
 	- `MD3E` [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) <sup>`FOSS`</sup> <sup>`🐾`</sup>
-	- `MDY` [Nyon Material You icons](https://play.google.com/store/apps/details?id=dev.lknninex.nyon.material) <sup>`💰`</sup>
-	- `MDY` [Material You Dynamic Icon pack](https://play.google.com/store/apps/details?id=com.akbon.myd)
-	- `MDY` [Pix You Dark Android Icon Pack](https://play.google.com/store/apps/details?id=com.arjunarora.pix_you_cornflower_dark_icons)
-	- `MDY` [Saga Material You icons](https://play.google.com/store/apps/details?id=com.lknninex.saga) <sup>`💰`</sup>
-	- `MDY` [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons)
-	- `MDY` [Epik Material You Icons](https://play.google.com/store/apps/details?id=com.lknninex.epik) <sup>`💰`</sup>
 	- `MDY` [Arcticons You](https://github.com/Donnnno/Arcticons) <sup>`FOSS`</sup>
-	- `MDY` [Blueprint](https://github.com/jahirfiquitiva/Blueprint) <sup>`FOSS`</sup>
-	- `MDY` [TeamFiles Lawnicons](https://github.com/TeamFiles/Lawnicons) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-	- `MDY` [DGicons Monet](https://github.com/WaifuPX-DG/DGicons) <sup>`🪦`</sup>
-	- `MDY` [You IconPack](https://play.google.com/store/apps/details?id=com.jndapp.pastel.material.you.iconpack) <sup>`💰`</sup>
-	- `MDY` [Adaptive You IconPack](https://play.google.com/store/apps/details?id=com.jndapp.adaptive.material.you.iconpack) <sup>`💰`</sup>
-	- `MDY` [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon)
 	- `MDY` [Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android) <sup>`FOSS`</sup>
+	- `MDY` [Material You Dynamic Icon pack](https://play.google.com/store/apps/details?id=com.akbon.myd)
+   	- `MDY` [You IconPack](https://play.google.com/store/apps/details?id=com.jndapp.pastel.material.you.iconpack) <sup>`💰`</sup>
+	- `MDY` [Blueprint](https://github.com/jahirfiquitiva/Blueprint) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [DGicons Monet](https://github.com/WaifuPX-DG/DGicons) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [TeamFiles Lawnicons](https://github.com/TeamFiles/Lawnicons) <sup>`FOSS`</sup> <sup>`🪦`</sup>
+	- `MDY` [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon) <sup>`🪦`</sup>
+	- `MDY` [Pix You Dark Android Icon Pack](https://play.google.com/store/apps/details?id=com.arjunarora.pix_you_cornflower_dark_icons) <sup>`🪦`</sup>
+	- `MDY` [Adaptive You IconPack](https://play.google.com/store/apps/details?id=com.jndapp.adaptive.material.you.iconpack) <sup>`💰`</sup> <sup>`🪦`</sup>
+	- `MDY` [Epik Material You Icons](https://play.google.com/store/apps/details?id=com.lknninex.epik) <sup>`💰`</sup> <sup>`🪦`</sup>
+	- `MDY` [Nyon Material You icons](https://play.google.com/store/apps/details?id=dev.lknninex.nyon.material) <sup>`💰`</sup> <sup>`🪦`</sup>
+	- `MDY` [Saga Material You icons](https://play.google.com/store/apps/details?id=com.lknninex.saga) <sup>`💰`</sup> <sup>`🪦`</sup>
 	- `MY` [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark) <sup>`💰`</sup>
 	- `MY` [Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color) <sup>`💰`</sup>
 	- `MY` [Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack) <sup>`💰`</sup>
